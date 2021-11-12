@@ -3,5 +3,4 @@ Simon
 Percy
 Elvis
 Yusuf
-Kaliaft
-John
+Kalifat
